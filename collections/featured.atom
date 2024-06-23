@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dt-lights.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dt-lights.myshopify.com/collections/featured.atom"/>
+  <title>Lights (password: buddha)</title>
+  <updated>2018-07-17T05:59:25-04:00</updated>
+  <author>
+    <name>Lights (password: buddha)</name>
+  </author>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1491841351778</id>
+    <published>2018-07-17T05:59:25-04:00</published>
+    <updated>2018-07-17T05:59:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/wooden-table-lamp"/>
+    <title>Wooden Table Lamp</title>
+    <s:type>Lamp</s:type>
+    <s:vendor>WollWoll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0026_Layer_6_90ea4b8c-9c99-4c5d-a798-1505f92e63d3.jpg?v=1535352680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WollWoll<br>
+        <strong>Type: </strong>Lamp<br>
+        <strong>Price: </strong>
+            142.00 - 195.00
+            <a href="https://dt-lights.myshopify.com/products/wooden-table-lamp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 = $200</s:tag>
+    <s:tag>Lamp</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>WollWoll</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491841351778</id>
+      <title>M / Purple</title>
+      <s:price currency="USD">142.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491841351778</id>
+      <title>S / Brown</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491841351778</id>
+      <title>L / White</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1491944243298</id>
+    <published>2018-07-17T05:59:19-04:00</published>
+    <updated>2018-07-17T05:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/teak-hanging-lamp"/>
+    <title>Teak Hanging Lamp</title>
+    <s:type>Light</s:type>
+    <s:vendor>Ajanta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0012_Layer_22_f6f74092-c02c-4c84-a61b-37efdaf00ef8.jpg?v=1535356392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajanta<br>
+        <strong>Type: </strong>Light<br>
+        <strong>Price: </strong>
+            219.00 - 296.00
+            <a href="https://dt-lights.myshopify.com/products/teak-hanging-lamp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Ajanta</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491944243298</id>
+      <title>L / Green / Wood</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491944243298</id>
+      <title>M / Yellow / Wood</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491944243298</id>
+      <title>S / White / Wood</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1491941032034</id>
+    <published>2018-07-17T05:59:19-04:00</published>
+    <updated>2018-07-17T05:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/paper-table-lamp"/>
+    <title>Paper Table Lamp</title>
+    <s:type>Light</s:type>
+    <s:vendor>Ajanta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0014_Layer_18_2b62cf8d-d8ba-4904-9f81-570d31126dbc.jpg?v=1535356309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajanta<br>
+        <strong>Type: </strong>Light<br>
+        <strong>Price: </strong>
+            219.00 - 296.00
+            <a href="https://dt-lights.myshopify.com/products/paper-table-lamp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Ajanta</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491941032034</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491941032034</id>
+      <title>M / White</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491941032034</id>
+      <title>S / Green</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1339688943714</id>
+    <published>2018-07-17T05:59:17-04:00</published>
+    <updated>2018-07-17T05:59:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/table-lamps-large"/>
+    <title>Table Lamps Large</title>
+    <s:type>Lamp</s:type>
+    <s:vendor>Vian</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0030_Layer_2_0f501476-d01b-40dc-a98c-441df37134cf.jpg?v=1535352141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vian<br>
+        <strong>Type: </strong>Lamp<br>
+        <strong>Price: </strong>
+            389.00 - 489.00
+            <a href="https://dt-lights.myshopify.com/products/table-lamps-large">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Lamp</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>Vian</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688943714</id>
+      <title>L / White / Plastic</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688943714</id>
+      <title>S / Sandal / Plastic</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688943714</id>
+      <title>M / Silver / Plastic</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1339688550498</id>
+    <published>2018-07-17T05:59:02-04:00</published>
+    <updated>2018-07-17T05:59:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/fancy-lamps"/>
+    <title>Fancy Lamps</title>
+    <s:type>Light</s:type>
+    <s:vendor>Vian</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0016_Layer_16.jpg?v=1535356597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vian<br>
+        <strong>Type: </strong>Light<br>
+        <strong>Price: </strong>
+            240.00 - 300.00
+            <a href="https://dt-lights.myshopify.com/products/fancy-lamps">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>Vian</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688550498</id>
+      <title>L / Brown / Plastic</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688550498</id>
+      <title>M / Red / Plastic</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688550498</id>
+      <title>S / Yellow / Plastic</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1491871760482</id>
+    <published>2018-07-17T05:59:00-04:00</published>
+    <updated>2018-07-17T05:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/table-desk-lamp"/>
+    <title>Table Desk Lamp</title>
+    <s:type>Light</s:type>
+    <s:vendor>Ajanta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0005_Layer_27_1a7349a8-fff7-4292-80ad-b155988b5736.jpg?v=1535353760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajanta<br>
+        <strong>Type: </strong>Light<br>
+        <strong>Price: </strong>
+            540.00 - 699.00
+            <a href="https://dt-lights.myshopify.com/products/table-desk-lamp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Ajanta</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491871760482</id>
+      <title>S / Purple / Wood</title>
+      <s:price currency="USD">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491871760482</id>
+      <title>M / White / Wood</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491871760482</id>
+      <title>L / Brown / Wood</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1491981107298</id>
+    <published>2018-07-17T05:58:58-04:00</published>
+    <updated>2018-07-17T05:58:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/mosaic-style-dome"/>
+    <title>Mosaic Style Dome</title>
+    <s:type>Lamp</s:type>
+    <s:vendor>Ajanta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0019_Layer_13_cbbc0e54-70da-4af2-b75e-2b80a6a40dfb.jpg?v=1535357380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajanta<br>
+        <strong>Type: </strong>Lamp<br>
+        <strong>Price: </strong>
+            530.00 - 699.00
+            <a href="https://dt-lights.myshopify.com/products/mosaic-style-dome">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Ajanta</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Lamp</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491981107298</id>
+      <title>L / Sandal / Wood</title>
+      <s:price currency="USD">530.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491981107298</id>
+      <title>M / Brown / Wood</title>
+      <s:price currency="USD">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491981107298</id>
+      <title>S / Green / Wood</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1339688157282</id>
+    <published>2018-07-17T05:58:46-04:00</published>
+    <updated>2018-07-17T05:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/moroccan-hanging-lamp"/>
+    <title>Moroccan Hanging Lamp</title>
+    <s:type>Light</s:type>
+    <s:vendor>WollWoll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0011_Layer_23.jpg?v=1535355057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WollWoll<br>
+        <strong>Type: </strong>Light<br>
+        <strong>Price: </strong>
+            319.00 - 489.00
+            <a href="https://dt-lights.myshopify.com/products/moroccan-hanging-lamp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>WollWoll</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688157282</id>
+      <title>S / Sandal</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688157282</id>
+      <title>M / White</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1339688157282</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-lights.myshopify.com/products/1491856949346</id>
+    <published>2018-07-17T05:58:44-04:00</published>
+    <updated>2018-07-17T05:58:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-lights.myshopify.com/products/pendant-ceiling-lamp"/>
+    <title>Pendant Ceiling Lamp</title>
+    <s:type>Light</s:type>
+    <s:vendor>WebelKart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0014/7996/6818/products/interior-products_0000_Layer_31_ee336ad6-5702-458d-82d0-98e520690ea2.jpg?v=1535353273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WebelKart<br>
+        <strong>Type: </strong>Light<br>
+        <strong>Price: </strong>
+            329.00 - 489.00
+            <a href="https://dt-lights.myshopify.com/products/pendant-ceiling-lamp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>WebelKart</s:tag>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491856949346</id>
+      <title>L / Black / Steel</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491856949346</id>
+      <title>M / Black / Steel</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-lights.myshopify.com/products/1491856949346</id>
+      <title>S / Black / Steel</title>
+      <s:price currency="USD">339.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
